@@ -1,6 +1,6 @@
 export const App = () => {
   const name = "Микола"
-  const imageUrl = "https://drive.google.com/file/d/1S1iSXIrQSN3FdEpnBWw2LK3bDt-BuCUC/view?usp=sharing"
+  const imageUrl = "https://drive.google.com/file/d/1S1iSXIrQSN3FdEpnBWw2LK3bDt-BuCUC"
   const imageAlt = "Вилка"
   const page = {
     name: "Chess",
